@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the schedule for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 045c1a1f-ec1d-b718-4dea-6af56ccf3220
 ---
@@ -37,7 +40,7 @@ Major concepts related to war in general and civil war in particular: the securi
 {{< tdopen >}}
 **Iraq Background and Empirical Overview**
 
-Data and description. Students will read the [executive reports of the International Crisis Group]({{< baseurl >}}/pages/readings#icg) over the course of the conflict to gain a sense of the evolution of the conflict as well as reading on-the-ground descriptions and summaries.
+Data and description. Students will read the {{% resource_link 959c2537-da58-d152-837a-9f55958b962e "executive reports of the International Crisis Group" "#icg" %}} over the course of the conflict to gain a sense of the evolution of the conflict as well as reading on-the-ground descriptions and summaries.
 
 
 {{< tdclose >}}
